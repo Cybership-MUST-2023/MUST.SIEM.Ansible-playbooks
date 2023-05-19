@@ -48,7 +48,7 @@ The `_network_host`-variables are used by wazuh-ansible to create the Wazuh mana
 
 #### Sensitive variables and secrets
 
-When using the scripts in the [MUST.SIEM.Infrastructure repo](), one needs to create a vault containing sensitive variables and secrets. For more information, see [the GitHub documentation](https://github.com/Cybership-Uganda-2023/MUST.SIEM.Infrastructure/blob/main/ansible/README.md#ansible-vault).
+When using the scripts in the [MUST.SIEM.Infrastructure repo](), one needs to create a vault containing sensitive variables and secrets. For more information, see [the GitHub documentation](https://github.com/WLAN-ITF-22-23/MUST.SIEM.Infrastructure/blob/main/ansible/README.md#ansible-vault).
 
 ### certificates
 
